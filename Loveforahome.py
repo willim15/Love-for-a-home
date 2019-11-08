@@ -1,4 +1,5 @@
-#Home by Morgan Williams
+#Love for a home 
+#by Morgan Williams
 
 def myHome(family, gone):
 	for love in family:
@@ -36,4 +37,10 @@ for living in my_home:
 	if(len(my_home) == 1):
 		break
 
+print("  ____||____")
+print(" ///////////\\")
+print("///////////  \\     ========== ")
+print("|    _    |  |    | For Sale |")
+print("|[] | | []|[]|     ==========")
+print("|   | |   |  |         ||")
 
